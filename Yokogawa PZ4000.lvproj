@@ -45,6 +45,7 @@
 		<Item Name="YKPZ400 Logging.lvlib" Type="Library" URL="../Logging/YKPZ400 Logging.lvlib"/>
 		<Item Name="YKPZ400 Settings.lvlib" Type="Library" URL="../Settings/YKPZ400 Settings.lvlib"/>
 		<Item Name="YKPZ400 Main.vi" Type="VI" URL="../YKPZ400 Main.vi"/>
+		<Item Name="Yokogawa - take measurement.vi" Type="VI" URL="../Yokogawa - take measurement.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -123,7 +124,18 @@
 				<Item Name="BuildHelpPath.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/BuildHelpPath.vi"/>
 				<Item Name="GetHelpDir.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/error.llb/GetHelpDir.vi"/>
 			</Item>
+			<Item Name="instr.lib" Type="Folder">
+				<Item Name="Yokogawa PZ4000.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Yokogawa PZ4000/Yokogawa PZ4000.lvlib"/>
+			</Item>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
+			<Item Name="electrical2.ctl" Type="VI" URL="../electrical2.ctl"/>
+			<Item Name="Yokogawa - set mode.vi" Type="VI" URL="../Yokogawa - set mode.vi"/>
+			<Item Name="Yokogawa - Settingsvi.vi" Type="VI" URL="../Yokogawa - Settingsvi.vi"/>
+			<Item Name="Yokogawa - rename waveform.vi" Type="VI" URL="../Yokogawa - rename waveform.vi"/>
+			<Item Name="Yokogawa - collect measurements for output.vi" Type="VI" URL="../Yokogawa - collect measurements for output.vi"/>
+			<Item Name="Build Filename.vi" Type="VI" URL="../../../Build Filename.vi"/>
+			<Item Name="Yokogawa - write file.vi" Type="VI" URL="../Yokogawa - write file.vi"/>
+			<Item Name="Yokogawa - single module.vi" Type="VI" URL="../Yokogawa - single module.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="Continuous Measurement and Logging Application" Type="EXE">

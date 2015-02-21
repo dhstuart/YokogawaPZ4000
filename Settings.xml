@@ -71,7 +71,7 @@
 </Cluster>
 <Cluster>
 <Name>Logging Configuration</Name>
-<NumElts>2</NumElts>
+<NumElts>3</NumElts>
 <Path>
 <Name>Log File Base Path</Name>
 <Val>C:\Users\dhstuart\Documents\LabVIEW Data\Logged Data.tdms</Val>
@@ -81,6 +81,10 @@
 <RefKind>TDMS File</RefKind>
 <Val>0x00000000</Val>
 </Refnum>
+<I32>
+<Name>Module to save</Name>
+<Val>1</Val>
+</I32>
 </Cluster>
 </Cluster>
 </LVData>
