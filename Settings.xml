@@ -74,7 +74,7 @@
 <NumElts>3</NumElts>
 <Path>
 <Name>Log File Base Path</Name>
-<Val>C:\Users\dhstuart\Documents\LabVIEW Data\Logged Data.tdms</Val>
+<Val>C:\Users\dhstuart\Dropbox\CLTC\YokogawaPZ4000\Output</Val>
 </Path>
 <Refnum>
 <Name>TDMS File Reference</Name>
