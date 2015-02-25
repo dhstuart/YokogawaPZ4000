@@ -20,4 +20,9 @@
 	<Item Name="Initialize Hardware References.vi" Type="VI" URL="../Initialize Hardware References.vi"/>
 	<Item Name="Stop Acquisition.vi" Type="VI" URL="../Stop Acquisition.vi"/>
 	<Item Name="Error Handler - Acquisition Message Loop.vi" Type="VI" URL="../Error Handler - Acquisition Message Loop.vi"/>
+	<Item Name="Yokogawa - take measurement.vi" Type="VI" URL="../Yokogawa - take measurement.vi"/>
+	<Item Name="Yokogawa - rename waveform.vi" Type="VI" URL="../Yokogawa - rename waveform.vi"/>
+	<Item Name="Yokogawa - set mode.vi" Type="VI" URL="../Yokogawa - set mode.vi"/>
+	<Item Name="Yokogawa - collect measurements for output.vi" Type="VI" URL="../Yokogawa - collect measurements for output.vi"/>
+	<Item Name="Yokogawa - Settings.vi" Type="VI" URL="../Yokogawa - Settings.vi"/>
 </Library>
