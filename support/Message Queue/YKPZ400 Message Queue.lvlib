@@ -44,4 +44,6 @@
 	<Item Name="All Message Queues.ctl" Type="VI" URL="../All Message Queues.ctl"/>
 	<Item Name="Create All Message Queues.vi" Type="VI" URL="../Create All Message Queues.vi"/>
 	<Item Name="Obtain Message Queue.vi" Type="VI" URL="../Obtain Message Queue.vi"/>
+	<Item Name="Dequeue Master and Local.vi" Type="VI" URL="../Dequeue Master and Local.vi"/>
+	<Item Name="Parse for Instrument Name.vi" Type="VI" URL="../Parse for Instrument Name.vi"/>
 </Library>
