@@ -21,35 +21,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Project Documentation" Type="Folder">
-			<Item Name="Documentation Images" Type="Folder">
-				<Item Name="loc_continuous_measurement.png" Type="Document" URL="../documentation/loc_continuous_measurement.png"/>
-			</Item>
-			<Item Name="Continuous Measurement and Logging Documentation.html" Type="Document" URL="../documentation/Continuous Measurement and Logging Documentation.html"/>
-		</Item>
-		<Item Name="Support VIs" Type="Folder">
-			<Property Name="NI.SortType" Type="Int">3</Property>
-			<Item Name="YKPZ400 Message Queue.lvlib" Type="Library" URL="../support/Message Queue/YKPZ400 Message Queue.lvlib"/>
-			<Item Name="YKPZ400 User Event - Stop.lvlib" Type="Library" URL="../support/User Event - Stop/YKPZ400 User Event - Stop.lvlib"/>
-			<Item Name="YKPZ400 Set Enable State on Multiple Controls.vi" Type="VI" URL="../support/YKPZ400 Set Enable State on Multiple Controls.vi"/>
-			<Item Name="YKPZ400 Check Loop Error.vi" Type="VI" URL="../support/YKPZ400 Check Loop Error.vi"/>
-			<Item Name="YKPZ400 Error Handler - Event Handling Loop.vi" Type="VI" URL="../support/YKPZ400 Error Handler - Event Handling Loop.vi"/>
-			<Item Name="YKPZ400 Error Handler - Message Handling Loop.vi" Type="VI" URL="../support/YKPZ400 Error Handler - Message Handling Loop.vi"/>
-		</Item>
-		<Item Name="Type Definitions" Type="Folder">
-			<Item Name="YKPZ400 Acquired Data.ctl" Type="VI" URL="../controls/YKPZ400 Acquired Data.ctl"/>
-			<Item Name="YKPZ400 UI Data.ctl" Type="VI" URL="../controls/YKPZ400 UI Data.ctl"/>
-			<Item Name="YKPZ400 UI State.ctl" Type="VI" URL="../controls/YKPZ400 UI State.ctl"/>
-			<Item Name="Metadata typedef.ctl" Type="VI" URL="../controls/Metadata typedef.ctl"/>
-			<Item Name="Metadata disable typedef.ctl" Type="VI" URL="../controls/Metadata disable typedef.ctl"/>
-			<Item Name="Metadata all typedef.ctl" Type="VI" URL="../controls/Metadata all typedef.ctl"/>
-			<Item Name="electrical2.ctl" Type="VI" URL="../controls/electrical2.ctl"/>
-		</Item>
-		<Item Name="YKPZ400 Acquisition.lvlib" Type="Library" URL="../Acquisition/YKPZ400 Acquisition.lvlib"/>
-		<Item Name="YKPZ400 Logging.lvlib" Type="Library" URL="../Logging/YKPZ400 Logging.lvlib"/>
-		<Item Name="YKPZ400 Settings.lvlib" Type="Library" URL="../Settings/YKPZ400 Settings.lvlib"/>
-		<Item Name="YKPZ400 Main.vi" Type="VI" URL="../YKPZ400 Main.vi"/>
-		<Item Name="Yokogawa PZ4000.lvlib" Type="Library" URL="/&lt;instrlib&gt;/Yokogawa PZ4000/Yokogawa PZ4000.lvlib"/>
+		<Item Name="Yokogawa.lvlib" Type="Library" URL="../Yokogawa.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Write to XML File(array).vi" Type="VI" URL="/&lt;vilib&gt;/Utility/xml.llb/Write to XML File(array).vi"/>
@@ -155,7 +127,7 @@
 				<Property Name="Source[0].itemID" Type="Str">{0F75B76A-443B-4438-959B-EBE33F15004F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
-				<Property Name="Source[1].itemID" Type="Ref">/My Computer/YKPZ400 Main.vi</Property>
+				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Yokogawa.lvlib/YKPZ400 Main.vi</Property>
 				<Property Name="Source[1].sourceInclusion" Type="Str">TopLevel</Property>
 				<Property Name="Source[1].type" Type="Str">VI</Property>
 				<Property Name="SourceCount" Type="Int">2</Property>
