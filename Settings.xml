@@ -61,11 +61,11 @@
 </Boolean>
 <Boolean>
 <Name>Module 3</Name>
-<Val>0</Val>
+<Val>1</Val>
 </Boolean>
 <Boolean>
 <Name>Module 4</Name>
-<Val>0</Val>
+<Val>1</Val>
 </Boolean>
 </Cluster>
 </Cluster>
