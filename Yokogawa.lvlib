@@ -28,4 +28,5 @@
 	<Item Name="YKPZ400 Settings.lvlib" Type="Library" URL="../Settings/YKPZ400 Settings.lvlib"/>
 	<Item Name="Yokogawa PZ4000.lvlib" Type="Library" URL="../Libraries/Yokogawa PZ4000/Yokogawa PZ4000.lvlib"/>
 	<Item Name="YKPZ400 Main.vi" Type="VI" URL="../YKPZ400 Main.vi"/>
+	<Item Name="Metadata Cluster.ctl" Type="VI" URL="../Metadata Cluster.ctl"/>
 </Library>
