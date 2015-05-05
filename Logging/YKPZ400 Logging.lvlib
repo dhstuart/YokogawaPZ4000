@@ -25,5 +25,4 @@
 	<Item Name="Metadata typedef.ctl" Type="VI" URL="../../controls/Metadata typedef.ctl"/>
 	<Item Name="Metadata disable typedef.ctl" Type="VI" URL="../../controls/Metadata disable typedef.ctl"/>
 	<Item Name="Metadata all typedef.ctl" Type="VI" URL="../../controls/Metadata all typedef.ctl"/>
-	<Item Name="Metadata Cluster.ctl" Type="VI" URL="../../Metadata Cluster.ctl"/>
 </Library>

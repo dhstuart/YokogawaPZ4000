@@ -46,4 +46,5 @@
 	<Item Name="Create All Message Queues.vi" Type="VI" URL="../Create All Message Queues.vi"/>
 	<Item Name="Obtain Message Queue.vi" Type="VI" URL="../Obtain Message Queue.vi"/>
 	<Item Name="Parse for Instrument Name.vi" Type="VI" URL="../Parse for Instrument Name.vi"/>
+	<Item Name="Message Log.vi" Type="VI" URL="../Message Log.vi"/>
 </Library>
