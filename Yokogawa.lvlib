@@ -28,6 +28,9 @@
 	<Item Name="YKPZ400 Settings.lvlib" Type="Library" URL="../Settings/YKPZ400 Settings.lvlib"/>
 	<Item Name="Yokogawa PZ4000.lvlib" Type="Library" URL="../Libraries/Yokogawa PZ4000/Yokogawa PZ4000.lvlib"/>
 	<Item Name="YKPZ400 Main.vi" Type="VI" URL="../YKPZ400 Main.vi"/>
+<<<<<<< HEAD
 	<Item Name="Sphere Indicator.ctl" Type="VI" URL="../Sphere Indicator.ctl"/>
 	<Item Name="Metadata Cluster.ctl" Type="VI" URL="../Metadata Cluster.ctl"/>
+=======
+>>>>>>> parent of 17912bd... Set Metadata at Measurement Control.vi
 </Library>
