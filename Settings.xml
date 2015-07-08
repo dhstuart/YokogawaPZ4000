@@ -1,6 +1,6 @@
 <?xml version='1.0' standalone='yes' ?>
 <LVData xmlns="http://www.ni.com/LVData">
-<Version>13.0f2</Version>
+<Version>14.0.1</Version>
 <Cluster>
 <Name>Settings in</Name>
 <NumElts>2</NumElts>
@@ -10,7 +10,7 @@
 <Refnum>
 <Name>VISA resource name</Name>
 <RefKind>VISA</RefKind>
-<Val>GPIB0::5::INSTR</Val>
+<Val></Val>
 </Refnum>
 <U16>
 <Name>Mode (0: Normal) </Name>
@@ -25,7 +25,7 @@
 </U16>
 <U16>
 <Name>V Range (200)</Name>
-<Val>4</Val>
+<Val>0</Val>
 </U16>
 </Cluster>
 <Cluster>
@@ -33,7 +33,7 @@
 <NumElts>3</NumElts>
 <U16>
 <Name>A Range (2)</Name>
-<Val>5</Val>
+<Val>0</Val>
 </U16>
 <U16>
 <Name>A Terminal (0: 5A)</Name>
@@ -46,35 +46,35 @@
 </Cluster>
 <U16>
 <Name>Observation Time</Name>
-<Val>10</Val>
+<Val>0</Val>
 </U16>
 <Cluster>
 <Name>Modules on/off</Name>
 <NumElts>4</NumElts>
 <Boolean>
 <Name>Module 1</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
 <Boolean>
 <Name>Module 2</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
 <Boolean>
 <Name>Module 3</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
 <Boolean>
 <Name>Module 4</Name>
-<Val>1</Val>
+<Val>0</Val>
 </Boolean>
 </Cluster>
 </Cluster>
 <Cluster>
 <Name>Logging Configuration</Name>
-<NumElts>3</NumElts>
+<NumElts>4</NumElts>
 <Path>
 <Name>Log File Base Path</Name>
-<Val>C:\Users\dhstuart\Dropbox\CLTC\YokogawaPZ4000\Output</Val>
+<Val>C:\Users\Daniel\Documents\LabVIEW Data\Logged Data.tdms</Val>
 </Path>
 <Refnum>
 <Name>TDMS File Reference</Name>
@@ -82,8 +82,12 @@
 <Val>0x00000000</Val>
 </Refnum>
 <I32>
-<Name>Module to save</Name>
-<Val>1</Val>
+<Name>Naked Sphere Module</Name>
+<Val>0</Val>
+</I32>
+<I32>
+<Name>Insulated Sphere Module</Name>
+<Val>0</Val>
 </I32>
 </Cluster>
 </Cluster>

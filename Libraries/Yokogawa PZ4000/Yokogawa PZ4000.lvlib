@@ -1,13 +1,13 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="13008000">
+<Library LVVersion="14008000">
 	<Property Name="Instrument Driver" Type="Str">True</Property>
 	<Property Name="NI.Lib.ContainingLib" Type="Str">Yokogawa.lvlib</Property>
 	<Property Name="NI.Lib.ContainingLibPath" Type="Str">../../../Yokogawa.lvlib</Property>
 	<Property Name="NI.Lib.DefaultMenu" Type="Str">DIR.MNU</Property>
 	<Property Name="NI.Lib.Description" Type="Str">LabVIEW Plug and Play instrument driver for Yokogawa PZ4000 Power Analyzer.</Property>
 	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
-	<Property Name="NI.Lib.Icon" Type="Bin">%Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*&amp;!!!*Q(C=\&gt;9R&lt;NN!%)8BJS"&amp;7NUA)+)G\64O&gt;16&gt;9;[ATH#J+URK/Q&amp;U":\!Q*2W*?A+OA,^=TF39#C)'AM)!J&amp;;G8K\H0V%5AN,&lt;@MC@&gt;:Q;&gt;.@NX(!O)^P1WPN_01[^L^,7V#PI:+J6*VUVF^H4G/(94DLLS&amp;`G0_3`^:`[`_@_S``P"]O$LLS*MVK*2G3&amp;D3H7@NW1Z)H?:)H?:)H?:!(?:!(?:!(O:-\O:-\O:-\O:%&lt;O:%&lt;O:(&lt;=&lt;EB&amp;\H):7WJ33:0*EK+*A73Q6#5P#7?R*.Y%A]@F8A34_**0)G()5I]C3@R**\%QWF+0)EH]33?R%/J*MGWE_.*0*28Y!E]A3@Q""[G6/!*!-&amp;E1?'A#!Q&amp;H=&amp;"Y!E]A9&gt;$":\!%XA#4_#B7Y%H]!3?Q".Y/+6&gt;F7C;=3@(1REZ(M@D?"S0Y['U()`D=4S/R`%QH2S0YX%1TI2/=1BS4H)'/"]=D_0BDRS0YX%]DM@RU.8OE,=L-WL'H2S0Y4%]BM@Q'"Z+S0!9(M.D?!Q0:76Y$)`B-4S'B[FE?!S0Y4%ARK2-,[/9=;)RS!A-$[`WN&amp;C\3^%EVP&lt;[;5Y0KOI"6$V9KA&gt;'^3#I&lt;L$KRKFOC/J#KS[A[M+IPL$KC[C!KIF6"65$&gt;?"^4_NJ7^K'NK;N;%N;2ZO0JX\QQ-0BI0V_L\\PN&gt;VON&gt;FMN&amp;[PN6KNN&amp;QOV87&gt;ZP0Z;&lt;8[SDZNM_/[^-$R3`_]?0XW9`@T\PPOK&lt;P@0@Z[8ITZ.&gt;OU,PU,;[-_4@];`&lt;Z'&lt;X(`3=Q!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">318799872</Property>
+	<Property Name="NI.Lib.Icon" Type="Bin">&amp;!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*&amp;!!!*Q(C=\&gt;9R&lt;NN!%)8BJS"&amp;7NUA)+)G\64O&gt;16&gt;9;[ATH#J+URK/Q&amp;U":\!Q*2W*?A+OA,^=TF39#C)'AM)!J&amp;;G8K\H0V%5AN,&lt;@MC@&gt;:Q;&gt;.@NX(!O)^P1WPN_01[^L^,7V#PI:+J6*VUVF^H4G/(94DLLS&amp;`G0_3`^:`[`_@_S``P"]O$LLS*MVK*2G3&amp;D3H7@NW1Z)H?:)H?:)H?:!(?:!(?:!(O:-\O:-\O:-\O:%&lt;O:%&lt;O:(&lt;=&lt;EB&amp;\H):7WJ33:0*EK+*A73Q6#5P#7?R*.Y%A]@F8A34_**0)G()5I]C3@R**\%QWF+0)EH]33?R%/J*MGWE_.*0*28Y!E]A3@Q""[G6/!*!-&amp;E1?'A#!Q&amp;H=&amp;"Y!E]A9&gt;$":\!%XA#4_#B7Y%H]!3?Q".Y/+6&gt;F7C;=3@(1REZ(M@D?"S0Y['U()`D=4S/R`%QH2S0YX%1TI2/=1BS4H)'/"]=D_0BDRS0YX%]DM@RU.8OE,=L-WL'H2S0Y4%]BM@Q'"Z+S0!9(M.D?!Q0:76Y$)`B-4S'B[FE?!S0Y4%ARK2-,[/9=;)RS!A-$[`WN&amp;C\3^%EVP&lt;[;5Y0KOI"6$V9KA&gt;'^3#I&lt;L$KRKFOC/J#KS[A[M+IPL$KC[C!KIF6"65$&gt;?"^4_NJ7^K'NK;N;%N;2ZO0JX\QQ-0BI0V_L\\PN&gt;VON&gt;FMN&amp;[PN6KNN&amp;QOV87&gt;ZP0Z;&lt;8[SDZNM_/[^-$R3`_]?0XW9`@T\PPOK&lt;P@0@Z[8ITZ.&gt;OU,PU,;[-_4@];`&lt;Z'&lt;X(`3=Q!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">335577088</Property>
 	<Property Name="NI.Lib.Version" Type="Str">2.0.0.0</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Item Name="Public" Type="Folder">
