@@ -29,5 +29,5 @@
 	<Item Name="Yokogawa PZ4000.lvlib" Type="Library" URL="../Libraries/Yokogawa PZ4000/Yokogawa PZ4000.lvlib"/>
 	<Item Name="YKPZ400 Main.vi" Type="VI" URL="../YKPZ400 Main.vi"/>
 	<Item Name="Metadata Cluster.ctl" Type="VI" URL="../Logging/Metadata Cluster.ctl"/>
-	<Item Name="Sphere Indicator.ctl" Type="VI" URL="../Sphere Indicator.ctl"/>
+	<Item Name="Sphere Indicator.ctl" Type="VI" URL="../controls/Sphere Indicator.ctl"/>
 </Library>
